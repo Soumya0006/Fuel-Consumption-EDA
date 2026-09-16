@@ -138,11 +138,19 @@ The project includes:
 - Higher MPG generally corresponds to lower CO₂ emissions.
 - Engine size, cylinders, and fuel consumption can be useful variables for predicting CO₂ emissions.
 
-## 📁 Project Files
+## 📂 Project Files
 
-- `Fuel_Consumption_EDA.ipynb` — Complete EDA notebook
-- `FuelConsumption.csv` — Dataset
-- `README.md` — Project documentation
+### 📓 View Jupyter Notebook
+
+[👉 View Fuel Consumption EDA Notebook](./Fuel_Consumption_EDA.ipynb)
+
+### 📊 View Dataset
+
+[👉 View Fuel Consumption Dataset](./FuelConsumption.csv)
+
+### 📖 Project Documentation
+
+You are currently viewing the project documentation in `README.md`.
 
 ## ▶️ How to Run
 
